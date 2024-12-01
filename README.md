@@ -16,7 +16,6 @@ QuickTalk is a modern chat application designed for seamless communication. This
 
 ## 📂 How to install
 - **Clone the repository**
-- ```bash
 - git clone https://github.com/SandeepaLakruwan/QuickTalk_ReactNative_Java_Application.git
 - **Backend**:
 - Navigate to the backend directory:
