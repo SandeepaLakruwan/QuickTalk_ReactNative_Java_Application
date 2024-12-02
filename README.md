@@ -19,27 +19,22 @@ QuickTalk is a modern chat application designed for seamless communication. This
 - git clone https://github.com/SandeepaLakruwan/QuickTalk_ReactNative_Java_Application.git
 - **Backend**:
 - Navigate to the backend directory:
-
-- cd Backend/java/QuickTalk
-
+-   cd Backend/java/QuickTalk
 - Start your Java server. Ensure your environment is set up for Java and Hibernate.
-
 - Import the database:
-
 - Locate the database backup file: Backend/quick_talk.sql.
 - Use your preferred MySQL client (e.g., phpMyAdmin, MySQL Workbench, or CLI) to import the database.
-
-- mysql -u [username] -p [database_name] < Backend/quick_talk.sql
-- 
+-   mysql -u [username] -p [database_name] < Backend/quick_talk.sql
+  
 - **Frontend**
 -  Navigate to the frontend directory:
-- cd [path_to_frontend_folder]
+-    cd [path_to_frontend_folder]
 
 - Install the required dependencies:
--  npm install
+-   npm install
 
--  Start the app
--  npx expo start
+- Start the app
+-   npx expo start
 
 -  **Enjoy**
 
@@ -49,16 +44,21 @@ QuickTalk is a modern chat application designed for seamless communication. This
 
 ## 📸 Screenshots
 
- - Sign In & Sign Up: ![image](https://github.com/user-attachments/assets/0b0462f7-e7d4-4d4b-b01c-2fdb5f5d4cc2)
-   ![image](https://github.com/user-attachments/assets/de7ddde9-a7dc-45d1-9132-0e5213f38160)
+ - Sign In & Sign Up:
+ -  ![image](https://github.com/user-attachments/assets/0b0462f7-e7d4-4d4b-b01c-2fdb5f5d4cc2)
+ -  ![image](https://github.com/user-attachments/assets/de7ddde9-a7dc-45d1-9132-0e5213f38160)
 
- - Chat List: ![image](https://github.com/user-attachments/assets/c0acc1b6-aa92-4cea-9376-a19b8a2b4af8)
+ - Chat List:
+ -  ![image](https://github.com/user-attachments/assets/c0acc1b6-aa92-4cea-9376-a19b8a2b4af8)
 
- - User Search: ![image](https://github.com/user-attachments/assets/0dfa2545-9549-42c9-9b48-9779babf2165)
+ - User Search:
+ -  ![image](https://github.com/user-attachments/assets/0dfa2545-9549-42c9-9b48-9779babf2165)
 
- - Profile Management: ![image](https://github.com/user-attachments/assets/2facfcb1-a50f-45db-8316-757fef6c483f)
+ - Profile Management:
+ -  ![image](https://github.com/user-attachments/assets/2facfcb1-a50f-45db-8316-757fef6c483f)
 
- - Chat: ![image](https://github.com/user-attachments/assets/a68db59f-82ca-4cde-b08a-d9939089ab8f)
+ - Chat:
+ -  ![image](https://github.com/user-attachments/assets/a68db59f-82ca-4cde-b08a-d9939089ab8f)
 
  ## 🤝 Contribution
 
